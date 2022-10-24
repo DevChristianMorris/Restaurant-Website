@@ -1,0 +1,2 @@
+React application URL / domain: https://scintillating-speculoos-02674a.netlify.app/
+API URL / domain: https://reservationizerdi.herokuapp.com/

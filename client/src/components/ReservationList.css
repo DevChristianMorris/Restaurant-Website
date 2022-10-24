@@ -1,0 +1,22 @@
+.reservationlist .date {
+  color: grey;
+}
+
+.reservationlist .viewreservation {
+  color: red;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  background-color: red;
+  width: max-content;
+  padding: 0.2rem 2rem;
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 40rem) {
+  .reservationlist .reservationinfo {
+    display: grid;
+    grid-template-columns: 2fr 3fr 2fr;
+    align-self: auto;
+    margin-right: 1rem;
+  }
+}

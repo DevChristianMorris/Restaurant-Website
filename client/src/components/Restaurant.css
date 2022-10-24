@@ -1,0 +1,19 @@
+@media only screen and (min-width: 40rem) {
+  .singlerestaurant {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (min-width: 40rem) {
+  .singlerestaurant .restaurantinfo {
+    margin-left: 2rem;
+  }
+}
+
+@media only screen and (min-width: 40rem) {
+  .singlerestaurant .restlogo {
+    margin-top: 2rem;
+    justify-self: center;
+  }
+}
